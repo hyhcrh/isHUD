@@ -8,7 +8,8 @@ With isHUD, everytime you change the input source, a HUD will appear right in th
 ![Screenshot](http://www.think-in-g.net/ghawk/blog/wp-content/uploads/2011/11/isHUD-screenshot-eng.jpg)
 
 ## Download the app binary
-- [isHUD-current.zip (v0.7)](http://www.think-in-g.net/share/isHUD/isHUD-current.zip)
+- **The original link is unavailable now, so please go to [Releases](https://github.com/hyhcrh/isHUD/releases/tag/stable) [direct download link](https://github.com/hyhcrh/isHUD/releases/download/stable/isHUD.app.zip)**
+- (Original) [isHUD-current.zip (v0.7)](http://www.think-in-g.net/share/isHUD/isHUD-current.zip)
 
 ## How to use
 - Just drag/move the isHUD.app into the Applications directory, open it as other app.
@@ -32,5 +33,4 @@ isHUD is licenced under the MIT license. So, feel free to use this utility and t
 
 ## Feedback
 If you like isHUD, or meet any problem, just send an email to ghawk.gu@gmail.com .  I'll make it better. BTW, I read Chinese, Japanese and English as well, if you write other than these languages, please translate the message before you send. Thank you!
-
 
